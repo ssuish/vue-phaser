@@ -21,3 +21,4 @@ vscode:
         - octref.vetur
         - eamodio.gitlens
         - DavidAnson.vscode-markdownlint
+        - Vue.volar
